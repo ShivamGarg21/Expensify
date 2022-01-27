@@ -5,4 +5,4 @@ Some of them are State Management in React, Context API, Local Storage, Material
 
 Setup:
 - run ```npm i && npm start```
-- if npm i dont work go for ```npm i --legacy-peer-deps```
+- if ```npm i``` dont work go for ```npm i --legacy-peer-deps```
